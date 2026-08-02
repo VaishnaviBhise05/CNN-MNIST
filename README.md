@@ -196,11 +196,6 @@ Contributions are welcome.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👨‍💻 Author
 
@@ -216,7 +211,3 @@ Interested in:
 - Data Science
 
 ---
-
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
